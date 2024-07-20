@@ -37,6 +37,30 @@ The final members table captures the join_date when a customer_id joined the bet
 
   Refer to https://8weeksqlchallenge.com/case-study-1/ above link
 
+# Case Study Question:
+
+Each of the following case study questions can be answered using a single SQL statement:
+
+*What is the total amount each customer spent at the restaurant?
+*How many days has each customer visited the restaurant?
+*What was the first item from the menu purchased by each customer?
+*What is the most purchased item on the menu and how many times was it purchased by all customers?
+*Which item was the most popular for each customer?
+*Which item was purchased first by the customer after they became a member?
+*Which item was purchased just before the customer became a member?
+*What is the total items and amount spent for each member before they became a member?
+*If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
+*In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
+
+#Insights:
+
+* Customer B is the most frequent visitor with 6 visits in Jan 2021
+* Danny's Dinner most popular item is ramen, followed by curry and sushi
+* Customer A and C loves ramen , whereas Customer B seems to enjoy sushi, curry and ramen equally. Who knows, I might be Customer B
+* Customer A is the 1st member of Danny's Dinner and his first item is curry
+* The last item ordered by Cust A and B before they become members are sushi and curry.
+* Throughout Jan 2021, their points for Cust A:860 AND Cust B:940 and Cust C:360
+* Before they become members, both Cust A AND B spent $25 and $40 
 
 
 

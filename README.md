@@ -19,7 +19,27 @@ Danny has shared with you 3 key datasets for this case study:
 sales
 menu
 members
-You can inspect the entity relationship diagram and example data below.
 
-![image](https://github.com/user-attachments/assets/e731c0f5-7015-4b02-a1fe-69c4a2cd8a9e)
+## Datasets:
+
+### Sales
+The sales table captures all customer_id level purchases with an corresponding order_date and product_id information for when and what menu items were ordered.
+
+### Menu
+
+The menu table maps the product_id to the actual product_name and price of each menu item.
+
+### Members
+
+The final members table captures the join_date when a customer_id joined the beta version of the Danny's Diner loyalty program
+
+* For Schema of the above sql project
+
+  Refer to https://8weeksqlchallenge.com/case-study-1/ above link
+
+
+
+
+
+
 

@@ -19,7 +19,7 @@ Danny has shared with you 3 key datasets for this case study:
 sales
 menu
 members
-- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
+- ![#f03c15]`#f03c15`
 
 ## Datasets:
 

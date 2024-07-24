@@ -24,6 +24,7 @@ members
 
 ### Sales
 The sales table captures all customer_id level purchases with an corresponding order_date and product_id information for when and what menu items were ordered.
+
 ![image](https://github.com/user-attachments/assets/64c87dc0-4773-4889-907c-f68f4212909d)
 
 

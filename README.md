@@ -19,12 +19,12 @@ Danny has shared with you 3 key datasets for this case study:
 sales
 menu
 members
-- ![#f03c15]`#f03c15`
+
 
 ## Datasets:
 
 ### Salesu
-The sales table captures all customer_id level purchases with an corresponding order_date and **product_id** information for when and what menu items were ordered.
+The sales table captures all customer_id level purchases with an corresponding `order_date` and `product_id` information for when and what menu items were ordered.
 
 ![image](https://github.com/user-attachments/assets/64c87dc0-4773-4889-907c-f68f4212909d)
 
